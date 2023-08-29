@@ -2,10 +2,9 @@
 
 ##### Sobre o Alex
 
-3 anos de experiencia na área de TI estou no 3º e ultimo ano(2023) do curso do ADS(analise e desenvolvimento de sistemas). 
+Tenho 3 anos de experiência na área de TI e estou no 3º e último ano (2023) do curso de ADS (Análise e Desenvolvimento de Sistemas).
 
-Linguagens: JAVA desktop no (1º e 2º usando o netbeans e eclipse, e usando um pouco o XAMPP para banco de dados),JAVA mobile (2º usando o Visual Studio e o XAMPP para banco de dados ),Sql(1º e 2º usando o postgresql, Oracle Database...), HTML(3º VScode, e Xampp como servidor),PHP(3º VScode, e Xampp como servidor).
-
+Linguagens: Java Desktop no 1º e 2º ano (usando NetBeans e Eclipse, e utilizando um pouco o XAMPP para banco de dados), Java Mobile no 2º ano (utilizando Visual Studio e XAMPP para banco de dados), SQL no 1º e 2º ano (usando PostgreSQL, Oracle Database...), HTML no 3º ano (VS Code, e XAMPP como servidor), PHP no 3º ano (VS Code, e XAMPP como servidor).
 ###  Detalhes
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexrdrosa&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
