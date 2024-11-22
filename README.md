@@ -20,6 +20,7 @@ Tenho 4 anos de experiência na área de Tecnologia da Informação, com ênfase
 </div>
 
 ### Contatos
+
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white' alt= 'LinkedIn' height = 30>](https://www .linkedin.com/in/alex-reginato-da-rosa-5696aa249/)
 
 
