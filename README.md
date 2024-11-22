@@ -2,7 +2,7 @@
 
 ##### Sobre o Alex
 
-Tenho 3 anos de experiência na área de TI e estou no 3º e último ano (2023) do curso de ADS (Análise e Desenvolvimento de Sistemas).
+Tenho 4 anos de experiência na área de TI e me formei no curso de ADS (Análise e Desenvolvimento de Sistemas) no ano de 2024.
 
 Linguagens: Java Desktop no 1º e 2º ano (usando NetBeans e Eclipse, e utilizando um pouco o XAMPP para banco de dados), Java Mobile no 2º ano (utilizando Visual Studio e XAMPP para banco de dados), SQL no 1º e 2º ano (usando PostgreSQL, Oracle Database...), HTML no 3º ano (VS Code, e XAMPP como servidor), PHP no 3º ano (VS Code, e XAMPP como servidor).
 ### Contatos
