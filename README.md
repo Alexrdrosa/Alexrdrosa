@@ -3,13 +3,12 @@
 ##### Sobre o Alex
 
 Tenho 4 anos de experiência na área de TI e me formei no curso de ADS (Análise e Desenvolvimento de Sistemas) no ano de 2024.
-
-Linguagens: Java Desktop no 1º e 2º ano (usando NetBeans e Eclipse, e utilizando um pouco o XAMPP para banco de dados), Java Mobile no 2º ano (utilizando Visual Studio e XAMPP para banco de dados), SQL no 1º e 2º ano (usando PostgreSQL, Oracle Database...), HTML no 3º ano (VS Code, e XAMPP como servidor), PHP no 3º ano (VS Code, e XAMPP como servidor).
 ### Competências
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
 
 ### Contatos
