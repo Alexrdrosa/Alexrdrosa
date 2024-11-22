@@ -2,12 +2,13 @@
 
 ##### Sobre o Alex
 Tenho 4 anos de experiência na área de Tecnologia da Informação, com ênfase em Análise e Desenvolvimento de Sistemas. Estou em busca de uma oportunidade que me permita aplicar meu conhecimento, aprimorar minhas competências e contribuir de forma significativa para o sucesso da equipe e o crescimento da empresa.
-<div>
+<div style="text-align: center;">
   <a href="https://github.com/Alexrdrosa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexrdrosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexrdrosa&layout=compact&langs_count=16&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula" />
   </a>
 </div>
+
 
 ### Competências
 <div style="display: inline_block">
