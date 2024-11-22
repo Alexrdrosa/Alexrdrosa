@@ -1,8 +1,8 @@
 ### Ola Pessoal 👋
 
 ##### Sobre o Alex
+Tenho 4 anos de experiência na área de Tecnologia da Informação, com ênfase em Análise e Desenvolvimento de Sistemas. Estou em busca de uma oportunidade que me permita aplicar meu conhecimento, aprimorar minhas competências e contribuir de forma significativa para o sucesso da equipe e o crescimento da empresa.
 
-Tenho 4 anos de experiência na área de TI e me formei no curso de ADS (Análise e Desenvolvimento de Sistemas) no ano de 2024.
 ### Competências
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
