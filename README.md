@@ -24,4 +24,6 @@ Tenho 4 anos de experiência na área de Tecnologia da Informação, com ênfase
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" height="30">
 </a>
 
+![Snake animation](https://github.com/Alexrdrosa/Alexrdrosa/blob/output/github-contribution-grid-snake.svg)
+
 
